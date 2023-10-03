@@ -11,5 +11,5 @@
   * Szerokość : 38 cm
   * Wysokość 18,5 cm
 * Szyld
-  * Szerokość: 36 cm lub mniej
-  * Wysokość: 18 cm lub mniej (17 cm?)
+  * Szerokość: 30 cm
+  * Wysokość: 20 cm
